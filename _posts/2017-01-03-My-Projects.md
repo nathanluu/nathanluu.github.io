@@ -1,11 +1,7 @@
 ---
 layout: post
-title: Introduction
+title: My Projects
 ---
-
-Hello there. I'm a high schooler from San Diego who works on various projects that solve problems I believe deserve simple, yet powerful, solutions. 
-
------
 
 Over the years, I have worked on many projects that striked my interests. I have worked on projects ranging from games to apps. 
 
@@ -17,12 +13,12 @@ There are currently three themes built on Poole:
 
 Learn more and contribute on [GitHub]({{ site.github.repo }}).
 
-### What's included
+### MyEducationLab
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
+MyEducationLab is a platform where both students and teachers can engage in a highly-interactive online classroom. Students can have access to their grades, assignments and social features. Teachers can monitor student progress, create beautiful assignments and manage their classroom. The program is still being developed. More info to come!
 
-* Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
-* Mobile friendly design and development
+* Monitor student progress easily and see where students need help.
+* Beautiful interface allows easy interactipn.
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
 * Related posts (time-based, because Jekyll) below each post
